@@ -5,7 +5,7 @@
   "previous buffer
  nnoremap <Leader>bp :bp<CR>  
   "list buffers
- nnoremap <Leader>bp :bp<CR>  
+ nnoremap <Leader>bl :Buffers<CR>  
   "close current buffer
  nnoremap <Leader>bd :bd<CR>  
   "close all except current buffer
