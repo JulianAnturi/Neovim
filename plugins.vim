@@ -1,4 +1,4 @@
-call plug#begin('~/.vim/plugged')
+call  plug#begin('~/.vim/plugged')
 
 " TEMAS
 Plug 'morhetz/gruvbox'
@@ -17,12 +17,14 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'sirver/ultisnips'
 Plug 'jiangmiao/auto-pairs'
 Plug 'alvan/vim-closetag'
+Plug 'scrooloose/nerdtree'
 
 " SQL
-" Plug 'tpope/vim-dadbod'
+Plug 'tpope/vim-dadbod'
 
 " CONFIGURACION DE VIM COMO IDE
 Plug 'sheerun/vim-polyglot'
+Plug 'shawncplus/phpcomplete.vim'
 Plug 'noahfrederick/vim-laravel'
 Plug 'maximbaz/lightline-ale'
 
