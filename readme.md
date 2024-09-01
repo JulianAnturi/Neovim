@@ -1,14 +1,14 @@
-#Welcome to my neovim
+# Welcome to my neovim
 
-#Requirements  
+# Requirements  
 Install neovim v-0.10.x
 for configuring php inteliphense use this
 ''':CocCommand intelephense.index.workspace'''
 
 
-#Shortcuts
+# Shortcuts
 
-##Buffers
+## Buffers
 * next buffer <Leader>bn
 * previous buffer <Leader>bp 
 * list buffers <Leader>bl 
@@ -16,29 +16,29 @@ for configuring php inteliphense use this
 * close all except current buffer <Leader>bdc
 * show all buffers on screen <Leader>ba
 
-##Tmux navigation
+## Tmux navigation
 * navigate left  <Leader><C-h>
 * navigate right  <Leader><C-l>
 * navigate up  <Leader><C-k>
 * navigate down  <Leader><C-j>
 
-##Tabs navigation
+## Tabs navigation
 * previous tab <Leader>tp
 * next tab <Leader>tn
 * new tab <Leader>tN
 
-##File commands
+## File commands
 * save  <Leader>ww
 * quit <Leader>wq
 * save & quit <Leader>wx
 
-##File navigation
+## File navigation
 * open NERDTree <Leader>nt 
 * search files <Leader>ff 
 * quit <Leader>wq
 * save & quit <Leader>wx
 
-##utils
+## utils
 * replace <Leader>rr
 * clip selected clipboard (only on visual mode) <Leader>yc
 * plug clean <Leader>Pc
